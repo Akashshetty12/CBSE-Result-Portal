@@ -41,6 +41,7 @@ A simple full-stack web application to manage and display CBSE student results.
 
 ---
 
-## Author
-**Akash Shetty**
+## 👨‍💻 Author  
+**Akash Shetty**  
 **B.Tech in Computer Science and Engineering**
+
